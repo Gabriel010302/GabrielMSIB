@@ -1,4 +1,0 @@
-Ini adalah rincian materi
-1. HTML dan CSS
-2. gihub.
-3. JS
