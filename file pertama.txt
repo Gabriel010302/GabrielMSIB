@@ -1,0 +1,4 @@
+Rincian materi pelatihan
+1. HTML dan CSS
+2. JS
+3. PHP
